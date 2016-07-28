@@ -1,5 +1,5 @@
 DataFolder=${PWD}
-cd ~/image_store/Scripts/PyBioCapillar/
+cd ~/image_store/Scripts/PythonSrc
 NameScript="Dicom2VTK"
 NameScriptPy=$NameScript".py"
 python $NameScriptPy $DataFolder
